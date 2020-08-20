@@ -80,8 +80,6 @@ The death of a god, the quest of the goddess and the triumphant return to the di
 
 This religion is attributed in Bible to Abraham, who left Ur and eventually settled in Canaan sometime between 2000 -1900 BCE. Some scholars think he may have been one of the wandering chieftains who had led their people from Mesopotamia towards Mediterranean at the end of the third millenium BCE. These wanderers sopke West semitic languages, of which Hebrew is one.
 
-*Book of Genesis* Abraham served King of Sodom as a mercenary. When his wife Sarah died, Abraham bought land in Hebron, now on West Bank. 
-
 Three waves of settlements in Canaan
 
 [plantuml, diagram-classes, png]
@@ -95,10 +93,44 @@ Three waves of settlements in Canaan
 
 By 8th century BCE, the Israelites were beginning to develop a distinct version of their own. J callling his god 'Yahweh', writing in southern Kingdon of Judah starts his history with an account of the creation of world which, compared with the _Enuma Elish_, is carelss. E, from northern Kingdon of Israel, perfers to use the more formal divine title 'Elohim'.
 
-....
-@startmindmap
-*Abraham, in 1850 BCE in Hebron 
-** Isaac, son of Abraham
-*** Jacob (grandson of Abraham) who was renamed Israel settled in Sechen, now a Arab town of Nablus on the West Bank. Bible says Jacob's son became the ancestors of twelve tribes of Israel, emigrated to Egypt during a severe famine in Canaan.
-@endmindmap
-....
+
+It is highly likely that Abraham, his son Isaac and grandson Jacob would have certaily believed in the existence of such dieties as Marduk, Baal and Anat. Centuries later 
+
+*Abraham* El, the High God of Canaan, the deity introduces himself as El Shaddai (El of the mountain). Elsewhere he is called El Elyon (The Most High God) or El of Bethel. The name of the Canaanite High God is preserved in such Hebrew names as Isra-El or Ishma-El. El seems to be a friendly god who appears to Abraham in dreams or in epiphanies, and sometimes assumes human form. J always identifies Yahweh as the only god. Yahweh appeared to Moses in awe insipiring volcanic eruption and the Israelities had to keep their distance. In a chapter of J's book; Abraham is commanded by Yahweh to leave his family in  Haran, in eastern Turkey and migrate to Canaan near the Mediterranean Sea. We have been told that his father Terah, a pagan, had already migrated westward with his family from Ur. Yahweh tell Abraham that he has special destiny: he will become the father of a mighty nation and one day his descendants will possess the land of Canaan.
+
+*Isaac* When Abraham and Sarah who was barren and had passed the menopause heard this promise from El and when against all odds, their sob is finally born, they call him Isaac, a name that may mean 'laughter'. The joke turns sour, as God demands to Abraham that he must sacrifice his only some to him. When Abraham tskes Isaac on a 3 day journey to the Mount of Moriah, later the site of the Temple in Jerusalem. Isaac carried the wood for his own holocaust. In last moement, God releneted and said it was all a test and Abraham is worthy of becomeing the father of a mighty nation.
+
+*Jacob* While going to Haran to find a wife, he slept at Luz in Jordan valley, saw El in his dreams who blessed him and repeated the promises that he had made to Abraham: Jacob's descendants would becaome a mighty nation and possess the land of Canaan. When he wakes, J makes him say; truly Yahweh is in this place, and I never knew it. This is nothing less than house of God _(bethEl)_; this is the gate of heaven. This saying is instictively pagan. Babylon itself, the abode of gods was called 'Gate of the gods' _(Bab-ili)_. Befoere he left Beth-El, Jacob had decided to make the god he had encountered there his _elohim_: this was a technical term, signifying everything that the gods could mean for men and women. He struck a bargain: in return for El's (or Yahweh's as J calls him) special protection to look after in Haran, Jacob would make him his _elohim_.
+
+*_People would continue to adopt a particular conception of the divine because it worked for them, not because it was scientifically or philosophically sound._*
+
+While returning from Haran with his wives, Jacob met a stranger with whom he wrestled all night ansd later became aware that his opponent had been none other than El himself. Jacob named this place Peni-El [El's face] which was at the ford of Jabbok on the West Bank.
+
+*Moses* The events of Exodus (of Israelites from Egypt's Pharaoh rule) made Yahweh the definitive God of Israel and that Moses was able to convince the Israelities that he really was the one and the same as El, the God beloved by Abraham, Isaac and Jacob.
+
+*Joshua* In the story of Mount Sinai, where God (Yahweh) is purported to have appeared to Moses and given him the Ten Commandments. A ceremony was conducted by Moses's successor Joshua who represented Yahweh. Jushua said:
+
+[quote]
+____
+So now, fear Yahweh and serve him perfectly and sincerely; put away the gods that once you served beyond the River [Jordan] and in Egypt and serve Yahweh, choose today whom you wish to serve, whether the gods your ancestors served beyond the River or the gods of the Amorites in whose land you are now living.
+____
+
+
+*Eli-Jah* After Joshua, many people continued to follow pagan culture and rituals they had been in ancient times. King Solomon was himself great syncretist. He had many pagan wives who worshipped their own gods. 
+
+[NOTE]
+====
+Syncretism /ˈsɪŋkrətɪzəm/ is the combining of different beliefs, while blending practices of various schools of thought. Syncretism involves the merging or assimilation of several originally discrete traditions, especially in the theology and mythology of religion, thus asserting an underlying unity and allowing for an inclusive approach to other faiths. Syncretism also occurs commonly in expressions of arts and culture (known as eclecticism) as well as politics (syncretic politics).
+====
+
+In 869 King Ahab's wife Jezbel, daughter of King Tyre and Sidon in what what is now Lebanon, was an ardent pagan. She was intent upon converting the country to the religion of Baal and Asherah. Ahab remained true to Yehwah but did not try to curb Jezbel's proselytism.  
+
+[NOTE]
+====
+Proselytism (/ˈprɒsəlɪtɪzəm/) is the act or fact of religious conversion, and it also includes actions which invite such conversion.
+The English-language word proselytize derives from the Greek language prefix (pros-, "toward") and the verb(érchomai, "I come") in the form of (prosélytos, "newcomer")
+====
+
+When a severe drought struck in the ends of King Ahab's reign, a prophet named Eli-Jah summoned King Ahab and people to a contest on Mount Carmel between Yahweh and Baal. Baal priests couldn't perform the miracle and he could and was declared as winner. He got Baal priests slaughtered. Upon Elijah's prayer Yahweh God made it rain and proved himself to be just as effective in fertility as he was in war(Exodus). 
+
+The period 800-200 BCE has been termed as Axial Age. In all main regions of the civilized world, people created new ideologies that have continued to be crucial and formative. The new religious system refelected the changed economic and social conditions. Power was shifted from king and priest, temple and palace, to the market class with the rise of a merchant class. Inequality and exploitation became more apparent and people bagan to realize that their own behavior could affect the fate of future generations. Each region developed a distinctive ideology to address these problems and concerns: Taoism and Confucianism in China, Hinduism and Buddhism in India and philosophical rationalism in Europe. The Middle East did not produce a uniform solution but in Iran and Israel, Zoroaster and Hebrew prophets evolved different versions of monotheism. 
