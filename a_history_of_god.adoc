@@ -1,0 +1,104 @@
+= A History Of God
+
+== In The Beginning ...
+
+Some people suggest that there has been a primitive monotheism before men and women had started to worship a number of Gods (paganism). Some kind of Supreme Deity, could have been known as Sky God or High God.
+
+Later High God gets replaced by more attractive gods of pagan pantheon.
+
+As consequence of our scientific culture, we have edited out the sense of the 'spiritual' or the 'holy' which pervades the lives of people in more traditional societies at every level and which was once an essential component of our human experience of the world.
+
+In the South Sea Islands (Polynesia or the Polynesian Triangle, an area bounded by the Hawaiian Islands, New Zealand and Easter Island); they call this mysterious force _mana_; other experience it as presence or spirit; sometimes it is felt as an impersonal power, like a form of radioactivity or electricity. It was believed to reside in tribal chief, in plants, rocks or animals. The Latins experienced _numina_ (spirits) in sacred groves (a small wood or other group of trees). Arabs felt that landscape was populated by _jinn_.
+
+[NOTE]
+====
+*numen* +
+_noun_
+plural noun: numina +
+the spirit or divine power presiding over a thing or place. +
+"the spirit of the place—its numen—was strong" +
+The literal meaning is simply "a nod", or more accurately, for it is a passive formation, "that which is produced by nodding", just as flamen is "that which is produced by blowing", i.e., a gust of wind.
+It came to mean "the product or expression of power" — not, be it noted, power itself. +
+
+Numinous (/ˈnjuːmɪnəs/) is a concept derived from the Latin _numen_ meaning "arousing spiritual or religious emotion; mysterious or awe-inspiring". The term was popularized by the German theologian Rudolf Otto in his influential 1917 German book _Das Heilige_, which appeared in English as _The Idea of the Holy_ in 1923. He also used the phrase *_mysterium tremendum_* as an alternative description. Otto's concept of the numinous influenced thinkers including Carl Jung, Mircea Eliade, and C. S. Lewis.
+*Origin:* LATIN
+====
+
+In Paleolithic period when agriculture was developing, the cult of Mother Goddess expressed a sense that fertility which was transforming human life was actuaually sacred. Liek the old Sky God, she was absorbed into later pantheos and took her place alongside older deities. She was usually one of the most powerful gods, certainly more powerful than th Sky God, who remained a rather shadowy figure. She is depicted as naked pregnant woman sometimes. She was called _Inana_ in ancient Sumeria (South Mesopotamia), _Ishtar_ in Babylon (Middle Mesopotamia), _Anat_ in Canaan (Israel/Palestine), _Isis_ in Egypt and _Aphrodite_ in Greece, and remarkably similar stories were devised in all these cultures to express her role in spiritual lives of the people.
+
+*4000 BCE*
+Sumerian lived in Tigris-Euphrates valley (Mesopotamia). The cities were Ur, Erech and Kish. Sumerians devies cueiform script, built extraordinary temple-towers called ziggurats and evolved an impressive law, literature and mythology.
+
+Sumerians were invaded by the Semitic Akkadians, who adopted Sumerian culture. The Akkadian Empire was the first ancient empire of Mesopotamia, centered in the city of Akkad and its surrounding region. The empire united Akkadian and Sumerian speakers under one rule. Akkadian, an East Semitic language, gradually replaced Sumerian as a spoken language somewhere between the 3rd and the 2nd millennia BC
+
+*2000 BCE*
+Amorites had conquered this Sumerian Akkadian civilization and made Babylon their capital. The term Amorites is used in the Bible to refer to certain highland mountaineers who inhabited the land of Canaan, described in Genesis as descendants of Canaan, the son of Ham (Gen. 10:16)
+
+*1500 BCE*
+Assyrians had settled in nearby Ashur, and eventually conquered Babylon during 800 BCE. The Babylonian tradition also affected the mythology and religon of Canaan (teh Promised Land of the ancient Israelites). The Babylon itself awas supposed to be an image of heaven with each one of its temples a replica of a celestial palace. In Babylon, this link with the divine world was celebreated and perpetuated annually in the great New Year Festival of 11 days, by 17th century BCE in the month of Nisan (April). 
+
+*Enuma Elish*
+On afternoon of the 4th day of the festival, priests recite the _Enuma Elish_, the epic poem which celebrated the victory of gods over chaos. In the beginning said the _Enuma Elish_, the gods emerged two by two from a formless, watery waste - a substance which was itself divine. In Babylonian myth, there was no creation out of nothing, an idea that was alien to the ancient world.
+
+[plantuml, diagram-classes, png]
+....
+@startmindmap
+*Enuma Elish\nThree Gods emerged from the primnal wasteland of (Mesopotamia)
+** 1. Apsu (Abyss) \n(identified with sweet waters and rivers)\n2. Tiamat (bottomless gulf) \n( wife of Apsu, identified as salty sea)\n3. Mummu (the womb of chaos)
+*** 1. Lahmu \n2. Lahamn \n(silt, water and earth mixed together)
+**** 1. Anshar \n2. Kishar \n(horizon of sky and sea)
+***** 1. 1. Anu (the heavens) \n2. Ea (the earth)
+****** Marduk (Ea's son, the Sun God, the most perfect specimen of the divine line)
+@endmindmap
+....
+
+Ea was able to overpower Apsu and Mummu and he could not overpower Tiamat.Tiamat produced whole brood misshapen monsters to fight on her behalf.
+
+Ea's son Marduk promised at a assembly of gods to fight Tiamat on condition that he became their ruler. Marduk defeated Tiamat eventually. In this myth creativity is a struggle, achieved labiriously against overwhelming odds.
+
+From Tiamat's vast corpse, Marduk decided to create a new world. He split her body in two from the arch of the sky and the world of men. The he devised laws that would keep everything in its appointed place. 
+
+Finally, Marduk created humanity. He seized Kingu; a clumsy and unintelligent companion of Tiamat created by Tiamat after the defeat of Apsu, He slew Kingu and shaped the first man by mixinf divine blood with the dust.
+
+_The pagan vision was holisitc. The gods were not shut off from the human race oin a separate,ontological  sphere: divinity was not essentially different from humanity. The gods and humans shared the same predicament, the only difference being that the gods were more powerful and were immortal.
+
+The myth of Murduk and Tiamat may have influenced the people of Canaan, who told a very similar story about Baal-Habad, the god of storm and fertility.
+Baal fought with Yam-Nahar, the god of the seas and rivers. Baal and Yam, both lived with El, the Canaanite High God. Baal defeated Yam and let go on request of Asherah as she said it is not honourable act to kill a prisoner.
+
+[plantuml, diagram-classes, png]
+....
+@startmindmap
+*1. El, the Canaanite High God \n2. Asherah (El's wife and mother of gods)
+** 1. Baal-Habad, the god of storm and fertility \n2. Anat (Baal's lover and sister)
+** Yam-Nahar, the god of the seas and rivers
+@endmindmap
+....
+
+Baal dies and descend to the world of Mot, the god of death and sterility. El himself couldn't redeem his son. Anat mercilessly kill Mot. Later, Baal is brought back to life and restored to Anat, not known how. This climax of wholeness and harmony, symbolized by union of sexes was celebrated by means of ritual sex in ancient Canaan.
+
+The death of a god, the quest of the goddess and the triumphant return to the divine sphere were constant religions themes in many cultures and would recur in the very different religion of the One God worshipped by Jews, Christians and Muslims.
+
+This religion is attributed in Bible to Abraham, who left Ur and eventually settled in Canaan sometime between 2000 -1900 BCE. Some scholars think he may have been one of the wandering chieftains who had led their people from Mesopotamia towards Mediterranean at the end of the third millenium BCE. These wanderers sopke West semitic languages, of which Hebrew is one.
+
+*Book of Genesis* Abraham served King of Sodom as a mercenary. When his wife Sarah died, Abraham bought land in Hebron, now on West Bank. 
+
+Three waves of settlements in Canaan
+
+[plantuml, diagram-classes, png]
+....
+@startmindmap
+*Abraham, in 1850 BCE in Hebron 
+** Jacob (grandson of Abraham) who was renamed Israel settled in Sechen, now a Arab town of Nablus on the West Bank. Bible says Jacob's son became the ancestors of twelve tribes of Israel, emigrated to Egypt during a severe famine in Canaan.
+** 1200 BCE, descendants of Abraham arrived in Canaan ferom Egypt. They had been liberated by a deity called Yahweh, who was the god of their leader Moses. They allied themselves the Hebrews and became known as people of Israel, bounmd principally together by their loyalty to Yahweh, the God of Moses
+@endmindmap
+....
+
+By 8th century BCE, the Israelites were beginning to develop a distinct version of their own. J callling his god 'Yahweh', writing in southern Kingdon of Judah starts his history with an account of the creation of world which, compared with the _Enuma Elish_, is carelss. E, from northern Kingdon of Israel, perfers to use the more formal divine title 'Elohim'.
+
+....
+@startmindmap
+*Abraham, in 1850 BCE in Hebron 
+** Isaac, son of Abraham
+*** Jacob (grandson of Abraham) who was renamed Israel settled in Sechen, now a Arab town of Nablus on the West Bank. Bible says Jacob's son became the ancestors of twelve tribes of Israel, emigrated to Egypt during a severe famine in Canaan.
+@endmindmap
+....
