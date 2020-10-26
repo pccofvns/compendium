@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.pccofvns.notes</groupId>
+    <artifactId>notes</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>notes</name>
+    <description>notes</description>
+    <properties>
+      <asciidoctor.maven.plugin.version>2.0.0-RC.1</asciidoctor.maven.plugin.version>
+      <asciidoctorj.pdf.version>1.5.3</asciidoctorj.pdf.version>
+      <asciidoctorj.version>2.2.0</asciidoctorj.version>
+      <asciidoctorj.diagram.version>1.5.18</asciidoctorj.diagram.version>
+      <jruby.version>9.2.11.0</jruby.version>
+      <date>${maven.build.timestamp}</date>
+      <maven.build.timestamp.format>EEE, d MMM yyyy HH:mm</maven.build.timestamp.format>
+    </properties>
+    <build>
+        <defaultGoal>process-resources</defaultGoal>
+        <plugins>
+            <plugin>
+                <groupId>org.asciidoctor</groupId>
+                <artifactId>asciidoctor-maven-plugin</artifactId>
+                <version>${asciidoctor.maven.plugin.version}</version>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.asciidoctor</groupId>
+                        <artifactId>asciidoctorj-pdf</artifactId>
+                        <version>${asciidoctorj.pdf.version}</version>
+                    </dependency>
+                    <dependency>
+                        <groupId>org.asciidoctor</groupId>
+                        <artifactId>asciidoctorj-diagram</artifactId>
+                        <version>${asciidoctorj.diagram.version}</version>
+                    </dependency>
+                    <!-- Comment this section to use the default jruby artifact provided by the plugin -->
+                    <dependency>
+                        <groupId>org.jruby</groupId>
+                        <artifactId>jruby-complete</artifactId>
+                        <version>${jruby.version}</version>
+                    </dependency>
+                    <!-- Comment this section to use the default AsciidoctorJ artifact provided by the plugin -->
+                    <dependency>
+                        <groupId>org.asciidoctor</groupId>
+                        <artifactId>asciidoctorj</artifactId>
+                        <version>${asciidoctorj.version}</version>
+                    </dependency>
+                    <dependency>
+                        <groupId>org.pccofvns.asciidoc.ext</groupId>
+                        <artifactId>table-macro</artifactId>
+                        <version>0.1</version>
+                    </dependency>
+                </dependencies>
+                <configuration>
+                    <sourceDirectory>.</sourceDirectory>
+                    <requires>
+                        <require>asciidoctor-diagram</require>
+                        <!--<require>asciidoctor-screenshot</require>-->
+                    </requires>
+                    <sourceDocumentExtensions>
+                        <sourceDocumentExtension>adoc</sourceDocumentExtension>
+                    </sourceDocumentExtensions>
+                    <!-- Attributes common to all output formats -->
+                    <attributes>
+                        <!-- Example below shows how to specify in this pom instead of System's PATH, the location of dot command of Graphviz, required by PlantUML libraries -->
+                        <!-- Windows:
+                        <graphvizdot>C:\Program Files (x86)\Graphviz2.38\bin\dot.exe</graphvizdot>
+                    -->
+                        <!-- *nix :
+                        <graphvizdot>/usr/local/bin/dot</graphvizdot>
+                    -->
+                        <endpoint-url>http://pccofvns.github.io</endpoint-url>
+                        <project-version>${project.version}</project-version>
+                        <icons>font</icons>
+                        <experimental />
+                        <pagenums />
+                        <sectnums />
+                        <toc />
+                        <idprefix />
+                        <idseparator>-</idseparator>
+                        <reproducible />
+                        <stem /><!--To activate equation and formula support-->
+                        <listing-caption>Listing</listing-caption>
+                        <toclevels>4</toclevels>
+                        <commandkey>⌘</commandkey>
+                        <organization>${project.organization.name}</organization>
+                        <chapter-label />
+                        <allow-uri-read />
+                        <project-version>${project.version}</project-version>
+                        <date>${date}</date>
+                    </attributes>
+                    <sourcemap>true</sourcemap>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>pdf</id>
+                        <phase>generate-resources</phase>
+                        <goals>
+                            <goal>process-asciidoc</goal>
+                        </goals>
+                        <configuration>
+                            <backend>pdf</backend>
+                            <outputDirectory>${project.build.directory}/generated-docs/pdf</outputDirectory>
+                            <sourceHighlighter>coderay</sourceHighlighter>
+                            <doctype>book</doctype>
+                            <attributes>
+                                <pdf-stylesdir>${project.basedir}/theme</pdf-stylesdir>
+                                <pdf-style>notes</pdf-style>
+                                <icons>font</icons>
+                                <pagenums />
+                                <toc />
+                                <idprefix />
+                                <idseparator>-</idseparator>
+                                <generate-pdf />
+                            </attributes>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>

@@ -85,9 +85,9 @@ Three waves of settlements in Canaan
 [plantuml, diagram-classes, png]
 ....
 @startmindmap
-*Abraham, in 1850 BCE in Hebron 
-** Jacob (grandson of Abraham) who was renamed Israel settled in Sechen, now a Arab town of Nablus on the West Bank. Bible says Jacob's son became the ancestors of twelve tribes of Israel, emigrated to Egypt during a severe famine in Canaan.
-** 1200 BCE, descendants of Abraham arrived in Canaan ferom Egypt. They had been liberated by a deity called Yahweh, who was the god of their leader Moses. They allied themselves the Hebrews and became known as people of Israel, bounmd principally together by their loyalty to Yahweh, the God of Moses
+* Abraham, in 1850 BCE in Hebron 
+** Jacob (grandson of Abraham) who was renamed Israel settled in Sechen, \nnow a Arab town of Nablus on the West Bank. \nBible says Jacob's son became the ancestors of twelve tribes of Israel, emigrated to Egypt during a severe famine in Canaan.
+*** 1200 BCE, descendants of Abraham arrived in Canaan ferom Egypt. \nThey had been liberated by a deity called Yahweh, who was the god of their leader Moses. \nThey allied themselves the Hebrews and became known as people of Israel, \nbound principally together by their loyalty to Yahweh, the God of Moses
 @endmindmap
 ....
 
