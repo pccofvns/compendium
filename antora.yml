@@ -1,0 +1,7 @@
+name: notes
+title: Notebook
+version: master #versionless as of now
+start_page: ROOT:index.adoc
+nav:
+- modules/a_history_of_god/nav.adoc
+- modules/the_selfish_gene/nav.adoc

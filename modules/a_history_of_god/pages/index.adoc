@@ -1,5 +1,3 @@
-= A History Of God
-
 == In The Beginning ...
 
 Some people suggest that there has been a primitive monotheism before men and women had started to worship a number of Gods (paganism). Some kind of Supreme Deity, could have been known as Sky God or High God.
@@ -26,6 +24,8 @@ Numinous (/ˈnjuːmɪnəs/) is a concept derived from the Latin _numen_ meaning 
 
 In Paleolithic period when agriculture was developing, the cult of Mother Goddess expressed a sense that fertility which was transforming human life was actuaually sacred. Liek the old Sky God, she was absorbed into later pantheos and took her place alongside older deities. She was usually one of the most powerful gods, certainly more powerful than th Sky God, who remained a rather shadowy figure. She is depicted as naked pregnant woman sometimes. She was called _Inana_ in ancient Sumeria (South Mesopotamia), _Ishtar_ in Babylon (Middle Mesopotamia), _Anat_ in Canaan (Israel/Palestine), _Isis_ in Egypt and _Aphrodite_ in Greece, and remarkably similar stories were devised in all these cultures to express her role in spiritual lives of the people.
 
+image::mesopotamia_1.png[Mesopotamia]
+
 *4000 BCE*
 Sumerian lived in Tigris-Euphrates valley (Mesopotamia). The cities were Ur, Erech and Kish. Sumerians devies cueiform script, built extraordinary temple-towers called ziggurats and evolved an impressive law, literature and mythology.
 
@@ -40,10 +40,10 @@ Assyrians had settled in nearby Ashur, and eventually conquered Babylon during 8
 *Enuma Elish*
 On afternoon of the 4th day of the festival, priests recite the _Enuma Elish_, the epic poem which celebrated the victory of gods over chaos. In the beginning said the _Enuma Elish_, the gods emerged two by two from a formless, watery waste - a substance which was itself divine. In Babylonian myth, there was no creation out of nothing, an idea that was alien to the ancient world.
 
-[plantuml, diagram-classes, png]
+[plantuml, enuma_elish, svg]
 ....
 @startmindmap
-*Enuma Elish\nThree Gods emerged from the primnal wasteland of (Mesopotamia)
+* Enuma Elish\nThree Gods emerged from the primnal wasteland of (Mesopotamia)
 ** 1. Apsu (Abyss) \n(identified with sweet waters and rivers)\n2. Tiamat (bottomless gulf) \n( wife of Apsu, identified as salty sea)\n3. Mummu (the womb of chaos)
 *** 1. Lahmu \n2. Lahamn \n(silt, water and earth mixed together)
 **** 1. Anshar \n2. Kishar \n(horizon of sky and sea)
@@ -65,10 +65,10 @@ _The pagan vision was holisitc. The gods were not shut off from the human race o
 The myth of Murduk and Tiamat may have influenced the people of Canaan, who told a very similar story about Baal-Habad, the god of storm and fertility.
 Baal fought with Yam-Nahar, the god of the seas and rivers. Baal and Yam, both lived with El, the Canaanite High God. Baal defeated Yam and let go on request of Asherah as she said it is not honourable act to kill a prisoner.
 
-[plantuml, diagram-classes, png]
+[plantuml, el_asherah, svg]
 ....
 @startmindmap
-*1. El, the Canaanite High God \n2. Asherah (El's wife and mother of gods)
+* 1. El, the Canaanite High God \n2. Asherah (El's wife and mother of gods)
 ** 1. Baal-Habad, the god of storm and fertility \n2. Anat (Baal's lover and sister)
 ** Yam-Nahar, the god of the seas and rivers
 @endmindmap
@@ -82,7 +82,7 @@ This religion is attributed in Bible to Abraham, who left Ur and eventually sett
 
 Three waves of settlements in Canaan
 
-[plantuml, diagram-classes, png]
+[plantuml, abraham_and_others, svg]
 ....
 @startmindmap
 * Abraham, in 1850 BCE in Hebron 
@@ -133,4 +133,37 @@ The English-language word proselytize derives from the Greek language prefix (pr
 
 When a severe drought struck in the ends of King Ahab's reign, a prophet named Eli-Jah summoned King Ahab and people to a contest on Mount Carmel between Yahweh and Baal. Baal priests couldn't perform the miracle and he could and was declared as winner. He got Baal priests slaughtered. Upon Elijah's prayer Yahweh God made it rain and proved himself to be just as effective in fertility as he was in war(Exodus). 
 
-The period 800-200 BCE has been termed as Axial Age. In all main regions of the civilized world, people created new ideologies that have continued to be crucial and formative. The new religious system refelected the changed economic and social conditions. Power was shifted from king and priest, temple and palace, to the market class with the rise of a merchant class. Inequality and exploitation became more apparent and people bagan to realize that their own behavior could affect the fate of future generations. Each region developed a distinctive ideology to address these problems and concerns: Taoism and Confucianism in China, Hinduism and Buddhism in India and philosophical rationalism in Europe. The Middle East did not produce a uniform solution but in Iran and Israel, Zoroaster and Hebrew prophets evolved different versions of monotheism. 
+*The period 800-200 BCE has been termed as Axial Age.* In all main regions of the civilized world, people created new ideologies that have continued to be crucial and formative. The new religious system reflected the changed economic and social conditions. Power was shifted from king and priest, temple and palace, to the market class with the rise of a merchant class. Inequality and exploitation became more apparent and people bagan to realize that their own behavior could affect the fate of future generations. Each region developed a distinctive ideology to address these problems and concerns: Taoism and Confucianism in China, Hinduism and Buddhism in India and philosophical rationalism in Europe. The Middle East did not produce a uniform solution but in Iran and Israel, Zoroaster and Hebrew prophets evolved different versions of monotheism. 
+
+== One God
+
+[#img-israel]
+image::Kingdoms_of_Israel_and_Judah_map_830.svg[Map of Israel and Judah in the 9th century BCE,720,859]
+
+According to the Hebrew Bible, the Kingdom of Israel, was one of two successor states to the former United Kingdom of Israel and Judah. Historians often refer to the Kingdom of Israel as the *"Northern Kingdom"* or as the *"Kingdom of Samaria"* to differentiate it from the Southern *Kingdom of Judah*.
+
+*In 742 BCE*, A member of the Judaean royal family *Isaiah* had a vision in the Temple which King Solomon had built in Jerusalem. It was anxious time for people of Israel. King Uzziah of Judah had died that year and was succeeded by King Ahaz, who was a syncretist and would encourage his subjects to worship pagan godds alongside Yahweh. The Northern kingdom of Israel was in a state of near anarchy: after the death of King Jeroboam II, five kings had sat on the throne between 746 to 736, while King Tigleth Pilesar III, King of Assyria, looked hungrily at their land. 
+
+*Isaiah* was probably full of foreboding, at the same time he may have been uncomfortably aware of the inappropriateness of the lavish Temple ceremonials. Despite being from ruler class, Isaiah had populist and democratic views and was highly sensitive to the plight of the poor. He may have feared that religion of Israel had lost its integrity and inner meaning.
+In his vision, Isaiah saw Yahweh himself sitting on his throne in heaven directly abobe the Temple, which was replica of his celestial court on earth. He was attended by two seraphs, who were cried out to one another antiphonally: Holy! holy! holy is Yahweh Sabaoth.
+
+[small]#antiphonal /anˈtɪfən(ə)l/ 
+(of music, especially church music, or a section of a church liturgy) sung, recited, or played alternately by two groups.#
+
+[small]#Sabaoth /ˈsabeɪɒθ,saˈbeɪɒθ/ 
+the hosts of heaven (in the biblical title ‘Lord (God) of Sabaoth’).#
+
+
+[.lead]
+When we use word 'holy' today, we ususally refer to the state of moral execellence. The Hebrew _kaddosh_, however, means otherness, a radical separation.
+
+The new Yahweh of the Axial age was still 'the god of the armies' but was no longer mere god of war. Nor was he simply a tribal deity, who was passionately biased in favour of Israel: his glory was no longer confined to the Promised Land but filled the whole earth.
+
+*Isaiah* was filled with mortal terror and cried aloud:
+
+[quote, Isaiah 6:5]
+____
+What a wretched state I am in! I am lost for I am a man of unclean lips and I live among a people of unclean lips, and my eyes have looked at the King, Yahweh Sabaoth.
+____
+
+image::Map_of_Assyria.png[Map of Assyria]
