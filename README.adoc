@@ -1,1 +1,5 @@
 = Notes on books
+
+This is sort of a compendium on some books. Some times a companion material is needed while reading. It could be simple word meaning, word origin, or a map and/ore some text from other sources. 
+
+The static site is published here as https://pustika.netlify.app/[pustika.netlify.app].
