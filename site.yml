@@ -1,5 +1,5 @@
 site:
-  title: Notebook
+  title: Compendium
   # the 404 page and sitemap files only get generated when the url property is set
   url: http://localhost:5000/docs
   start_page: notes::index.adoc
@@ -17,7 +17,8 @@ ui:
         User-agent: *
     - path: ui.yml
       contents: |
-        static_files: [robots.txt]
+        static_files: [robots.txt, .nojekyll]
+    - path: .nojekyll
 asciidoc:
   extensions:
     - asciidoctor-plantuml
@@ -35,8 +36,8 @@ asciidoc:
     tabs: tabs
     source-language: asciidoc
     table-caption: ~
-    url-project: https://notebook.org
-    product-name: 'Notebook'
+    url-project: https://pustika.netlify.app/
+    product-name: 'Compendium'
     toc: ~
     linkattrs: ''
     icons: 'font'

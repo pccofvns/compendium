@@ -5,8 +5,8 @@
     <artifactId>notes</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>notes</name>
-    <description>notes</description>
+    <name>compendium</name>
+    <description>compendium</description>
     <properties>
       <asciidoctor.maven.plugin.version>2.0.0-RC.1</asciidoctor.maven.plugin.version>
       <asciidoctorj.pdf.version>1.5.3</asciidoctorj.pdf.version>

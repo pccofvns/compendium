@@ -1,4 +1,4 @@
-= Ghumakkad Documentation
+= Compendium Project
 Prashant C Chaturvedi <prashant.chaturvedi@hcentive.com>
 
-:description: 'Overview of Ghumakkad Documentation'
+:description: 'Overview of Compendium'
