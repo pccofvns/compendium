@@ -1,5 +1,5 @@
-name: notes
-title: Notebook
+name: compendium
+title: Compendium
 version: master #versionless as of now
 start_page: ROOT:index.adoc
 nav:
