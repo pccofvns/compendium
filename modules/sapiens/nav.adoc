@@ -1,0 +1,1 @@
+* xref:index.adoc[Sapiens: A History Of Mankind by _Yuval Noah Harari_]
