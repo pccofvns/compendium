@@ -1,4 +1,4 @@
-name: compendium
+name: notes
 title: Compendium
 version: master #versionless as of now
 start_page: ROOT:index.adoc

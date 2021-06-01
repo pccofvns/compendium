@@ -6,7 +6,10 @@ Later High God gets replaced by more attractive gods of pagan pantheon.
 
 As consequence of our scientific culture, we have edited out the sense of the 'spiritual' or the 'holy' which pervades the lives of people in more traditional societies at every level and which was once an essential component of our human experience of the world.
 
-In the South Sea Islands (Polynesia or the Polynesian Triangle, an area bounded by the Hawaiian Islands, New Zealand and Easter Island); they call this mysterious force _mana_; other experience it as presence or spirit; sometimes it is felt as an impersonal power, like a form of radioactivity or electricity. It was believed to reside in tribal chief, in plants, rocks or animals. The Latins experienced _numina_ (spirits) in sacred groves (a small wood or other group of trees). Arabs felt that landscape was populated by _jinn_.
+In the South Sea Islands (Polynesia or the Polynesian Triangle, an area bounded by the Hawaiian Islands, New Zealand and Easter Island); they call this mysterious force _mana_; other experience it as presence or spirit; sometimes it is felt as an impersonal power, like a form of radioactivity or electricity. It was believed to reside in tribal chief, in plants, rocks or animals. 
+[#img-polynesia]
+image::https://upload.wikimedia.org/wikipedia/commons/4/4b/Polynesian_Migration.svg[title="Polynesisa"]
+The Latins experienced _numina_ (spirits) in sacred groves (a small wood or other group of trees). Arabs felt that landscape was populated by _jinn_.
 
 [NOTE]
 ====
@@ -22,12 +25,14 @@ Numinous (/ˈnjuːmɪnəs/) is a concept derived from the Latin _numen_ meaning 
 *Origin:* LATIN
 ====
 
-In Paleolithic period when agriculture was developing, the cult of Mother Goddess expressed a sense that fertility which was transforming human life was actuaually sacred. Liek the old Sky God, she was absorbed into later pantheos and took her place alongside older deities. She was usually one of the most powerful gods, certainly more powerful than th Sky God, who remained a rather shadowy figure. She is depicted as naked pregnant woman sometimes. She was called _Inana_ in ancient Sumeria (South Mesopotamia), _Ishtar_ in Babylon (Middle Mesopotamia), _Anat_ in Canaan (Israel/Palestine), _Isis_ in Egypt and _Aphrodite_ in Greece, and remarkably similar stories were devised in all these cultures to express her role in spiritual lives of the people.
+In Paleolithic period when agriculture was developing, the cult of Mother Goddess expressed a sense that fertility which was transforming human life was actuaually sacred. Liek the old Sky God, she was absorbed into later pantheos and took her place alongside older deities. She was usually one of the most powerful gods, certainly more powerful than the Sky God, who remained a rather shadowy figure. She is depicted as naked pregnant woman sometimes. She was called https://en.wikipedia.org/wiki/Inanna[_Inanna_] in ancient Sumeria (South Mesopotamia), _Ishtar_ in Babylon (Middle Mesopotamia), _Anat_ in Canaan (Israel/Palestine), _Isis_ in Egypt and _Aphrodite_ in Greece, and remarkably similar stories were devised in all these cultures to express her role in spiritual lives of the people.
 
-image::mesopotamia_1.png[Mesopotamia]
+image::https://cdn.kastatic.org/ka-perseus-images/86d0c54156c494404b83aaddca6dd7f74bac964b.jpg[title = "The 'Queen of the Night' Relief, 1800-1750 B.C.E., Old Babylonian, baked straw-tempered clay, 49 x 37 x 4.8 cm, Southern Iraq © Trustees of the British Museum"]
+
+image::https://upload.wikimedia.org/wikipedia/commons/2/26/Ancient_Egypt_and_Mesopotamia_c._1450_BC.png[title = "Ancient Egypt and Mesopotamia c. 1450 BC"]
 
 *4000 BCE*
-Sumerian lived in Tigris-Euphrates valley (Mesopotamia). The cities were Ur, Erech and Kish. Sumerians devies cueiform script, built extraordinary temple-towers called ziggurats and evolved an impressive law, literature and mythology.
+Sumerian lived in Tigris-Euphrates valley (Mesopotamia). The cities were Ur, Erech and Kish. Sumerians devises cueiform script, built extraordinary temple-towers called ziggurats and evolved an impressive law, literature and mythology.
 
 Sumerians were invaded by the Semitic Akkadians, who adopted Sumerian culture. The Akkadian Empire was the first ancient empire of Mesopotamia, centered in the city of Akkad and its surrounding region. The empire united Akkadian and Sumerian speakers under one rule. Akkadian, an East Semitic language, gradually replaced Sumerian as a spoken language somewhere between the 3rd and the 2nd millennia BC
 
@@ -35,34 +40,37 @@ Sumerians were invaded by the Semitic Akkadians, who adopted Sumerian culture. T
 Amorites had conquered this Sumerian Akkadian civilization and made Babylon their capital. The term Amorites is used in the Bible to refer to certain highland mountaineers who inhabited the land of Canaan, described in Genesis as descendants of Canaan, the son of Ham (Gen. 10:16)
 
 *1500 BCE*
-Assyrians had settled in nearby Ashur, and eventually conquered Babylon during 800 BCE. The Babylonian tradition also affected the mythology and religon of Canaan (teh Promised Land of the ancient Israelites). The Babylon itself awas supposed to be an image of heaven with each one of its temples a replica of a celestial palace. In Babylon, this link with the divine world was celebreated and perpetuated annually in the great New Year Festival of 11 days, by 17th century BCE in the month of Nisan (April). 
+Assyrians had settled in nearby Ashur, and eventually conquered Babylon during 800 BCE. The Babylonian tradition also affected the mythology and religon of Canaan (the Promised Land of the ancient Israelites). The Babylon itself awas supposed to be an image of heaven with each one of its temples a replica of a celestial palace. In Babylon, this link with the divine world was celebreated and perpetuated annually in the great New Year Festival of 11 days, by 17th century BCE in the month of Nisan (April). 
 
 *Enuma Elish*
 On afternoon of the 4th day of the festival, priests recite the _Enuma Elish_, the epic poem which celebrated the victory of gods over chaos. In the beginning said the _Enuma Elish_, the gods emerged two by two from a formless, watery waste - a substance which was itself divine. In Babylonian myth, there was no creation out of nothing, an idea that was alien to the ancient world.
 
 [plantuml, enuma_elish, svg]
 ....
-@startmindmap
-* Enuma Elish\nThree Gods emerged from the primnal wasteland of (Mesopotamia)
-** 1. Apsu (Abyss) \n(identified with sweet waters and rivers)\n2. Tiamat (bottomless gulf) \n( wife of Apsu, identified as salty sea)\n3. Mummu (the womb of chaos)
-*** 1. Lahmu \n2. Lahamn \n(silt, water and earth mixed together)
-**** 1. Anshar \n2. Kishar \n(horizon of sky and sea)
-***** 1. 1. Anu (the heavens) \n2. Ea (the earth)
-****** Marduk (Ea's son, the Sun God, the most perfect specimen of the divine line)
-@endmindmap
+@startuml
+:Enuma Elish\nThree Gods emerged from the primnal wasteland of (Mesopotamia);
+:1. Apsu (Abyss) \n(identified with sweet waters and rivers)\n2. Tiamat (bottomless gulf) \n( wife of Apsu, identified as salty sea)\n3. Mummu (the womb of chaos);
+:1. Lahmu \n2. Lahamn \n(silt, water and earth mixed together);
+:1. Anshar \n2. Kishar \n(horizon of sky and sea);
+:1. Anu (the heavens) \n2. Ea (the earth);
+:Marduk (Ea's son, the Sun God, the most perfect specimen of the divine line);
+@enduml
 ....
 
-Ea was able to overpower Apsu and Mummu and he could not overpower Tiamat.Tiamat produced whole brood misshapen monsters to fight on her behalf.
+Ea was able to overpower Apsu and Mummu and he could not overpower Tiamat. Tiamat produced whole brood misshapen monsters to fight on her behalf.
 
 Ea's son Marduk promised at a assembly of gods to fight Tiamat on condition that he became their ruler. Marduk defeated Tiamat eventually. In this myth creativity is a struggle, achieved labiriously against overwhelming odds.
 
 From Tiamat's vast corpse, Marduk decided to create a new world. He split her body in two from the arch of the sky and the world of men. The he devised laws that would keep everything in its appointed place. 
 
-Finally, Marduk created humanity. He seized Kingu; a clumsy and unintelligent companion of Tiamat created by Tiamat after the defeat of Apsu, He slew Kingu and shaped the first man by mixinf divine blood with the dust.
+Finally, Marduk created humanity. He seized Kingu; a clumsy and unintelligent companion of Tiamat created by Tiamat after the defeat of Apsu, He slew Kingu and shaped the first man by mixing divine blood with the dust.
 
-_The pagan vision was holisitc. The gods were not shut off from the human race oin a separate,ontological  sphere: divinity was not essentially different from humanity. The gods and humans shared the same predicament, the only difference being that the gods were more powerful and were immortal.
+image::https://upload.wikimedia.org/wikipedia/commons/4/4f/Marduk_and_pet.jpg[title="The Statue of Marduk depicted on a cylinder seal of the 9th century BC Babylonian king Marduk-zakir-shumi"]
 
-The myth of Murduk and Tiamat may have influenced the people of Canaan, who told a very similar story about Baal-Habad, the god of storm and fertility.
+
+The pagan vision was holisitc. The gods were not shut off from the human race oin a separate, ontological  sphere: divinity was not essentially different from humanity. The gods and humans shared the same predicament, the only difference being that the gods were more powerful and were immortal.
+
+The myth of Marduk and Tiamat may have influenced the people of Canaan, who told a very similar story about Baal-Habad, the god of storm and fertility.
 Baal fought with Yam-Nahar, the god of the seas and rivers. Baal and Yam, both lived with El, the Canaanite High God. Baal defeated Yam and let go on request of Asherah as she said it is not honourable act to kill a prisoner.
 
 [plantuml, el_asherah, svg]
@@ -78,29 +86,29 @@ Baal dies and descend to the world of Mot, the god of death and sterility. El hi
 
 The death of a god, the quest of the goddess and the triumphant return to the divine sphere were constant religions themes in many cultures and would recur in the very different religion of the One God worshipped by Jews, Christians and Muslims.
 
-This religion is attributed in Bible to Abraham, who left Ur and eventually settled in Canaan sometime between 2000 -1900 BCE. Some scholars think he may have been one of the wandering chieftains who had led their people from Mesopotamia towards Mediterranean at the end of the third millenium BCE. These wanderers sopke West semitic languages, of which Hebrew is one.
+This religion is attributed in Bible to Abraham, who left Ur and eventually settled in Canaan sometime between 2000 -1900 BCE. Some scholars think he may have been one of the wandering chieftains who had led their people from Mesopotamia towards Mediterranean at the end of the third millenium BCE. These wanderers spoke west semitic languages, of which Hebrew is one.
 
 Three waves of settlements in Canaan
 
 [plantuml, abraham_and_others, svg]
 ....
-@startmindmap
-* Abraham, in 1850 BCE in Hebron 
-** Jacob (grandson of Abraham) who was renamed Israel settled in Sechen, \nnow a Arab town of Nablus on the West Bank. \nBible says Jacob's son became the ancestors of twelve tribes of Israel, emigrated to Egypt during a severe famine in Canaan.
-*** 1200 BCE, descendants of Abraham arrived in Canaan ferom Egypt. \nThey had been liberated by a deity called Yahweh, who was the god of their leader Moses. \nThey allied themselves the Hebrews and became known as people of Israel, \nbound principally together by their loyalty to Yahweh, the God of Moses
-@endmindmap
+@startuml
+:Abraham, in 1850 BCE in Hebron from Haran, Eastern Turkey;
+:Jacob (grandson of Abraham) who was renamed Israel settled in Sechen, \nnow a Arab town of Nablus on the West Bank. \nBible says Jacob's son became the ancestors of twelve tribes of Israel, emigrated to Egypt during a severe famine in Canaan.;
+:1200 BCE, led by Moses, descendants of Abraham arrived in Canaan from Egypt. \nThey had been liberated by a deity called Yahweh, who was the god of their leader Moses. \nThey allied themselves with the Hebrews and became known as people of Israel, \nbound principally together by their loyalty to Yahweh, the God of Moses.;
+@enduml
 ....
 
-By 8th century BCE, the Israelites were beginning to develop a distinct version of their own. J callling his god 'Yahweh', writing in southern Kingdon of Judah starts his history with an account of the creation of world which, compared with the _Enuma Elish_, is carelss. E, from northern Kingdon of Israel, perfers to use the more formal divine title 'Elohim'.
+The two earliest biblical authors, whose work is found in Genedis and Exodus, were probably writing during eighth century. One is known as 'J' because he calls his God 'Yahweh' and the other 'E' since he prefers to use the more formal divine title 'Elohim'. By 8th century BCE, the Israelites had divided Canaan into two kingdoms and were beginning to develop a distinct version of their own. J is writing in southern Kingdon of Judah starts his history with an account of the creation of world which, compared with the _Enuma Elish_, is lacking in interest or enthusiasm. E, from northern Kingdon of Israel, perfers to use the more formal divine title 'Elohim'.
 
 
-It is highly likely that Abraham, his son Isaac and grandson Jacob would have certaily believed in the existence of such dieties as Marduk, Baal and Anat. Centuries later 
+It is highly likely that Abraham, his son Isaac and grandson Jacob would have certainly believed in the existence of such dieties as Marduk, Baal and Anat. 
 
 *Abraham* El, the High God of Canaan, the deity introduces himself as El Shaddai (El of the mountain). Elsewhere he is called El Elyon (The Most High God) or El of Bethel. The name of the Canaanite High God is preserved in such Hebrew names as Isra-El or Ishma-El. El seems to be a friendly god who appears to Abraham in dreams or in epiphanies, and sometimes assumes human form. J always identifies Yahweh as the only god. Yahweh appeared to Moses in awe insipiring volcanic eruption and the Israelities had to keep their distance. In a chapter of J's book; Abraham is commanded by Yahweh to leave his family in  Haran, in eastern Turkey and migrate to Canaan near the Mediterranean Sea. We have been told that his father Terah, a pagan, had already migrated westward with his family from Ur. Yahweh tell Abraham that he has special destiny: he will become the father of a mighty nation and one day his descendants will possess the land of Canaan.
 
-*Isaac* When Abraham and Sarah who was barren and had passed the menopause heard this promise from El and when against all odds, their sob is finally born, they call him Isaac, a name that may mean 'laughter'. The joke turns sour, as God demands to Abraham that he must sacrifice his only some to him. When Abraham tskes Isaac on a 3 day journey to the Mount of Moriah, later the site of the Temple in Jerusalem. Isaac carried the wood for his own holocaust. In last moement, God releneted and said it was all a test and Abraham is worthy of becomeing the father of a mighty nation.
+*Isaac* When Abraham and Sarah who was barren and had passed the menopause heard this promise from El and when against all odds, their son is finally born, they call him Isaac, a name that may mean 'laughter'. The joke turns sour, as God demands to Abraham that he must sacrifice his only some to him. When Abraham tskes Isaac on a 3 day journey to the Mount of Moriah, later the site of the Temple in Jerusalem. Isaac carried the wood for his own holocaust. In last moement, God releneted and said it was all a test and Abraham is worthy of becomeing the father of a mighty nation.
 
-*Jacob* While going to Haran to find a wife, he slept at Luz in Jordan valley, saw El in his dreams who blessed him and repeated the promises that he had made to Abraham: Jacob's descendants would becaome a mighty nation and possess the land of Canaan. When he wakes, J makes him say; truly Yahweh is in this place, and I never knew it. This is nothing less than house of God _(bethEl)_; this is the gate of heaven. This saying is instictively pagan. Babylon itself, the abode of gods was called 'Gate of the gods' _(Bab-ili)_. Befoere he left Beth-El, Jacob had decided to make the god he had encountered there his _elohim_: this was a technical term, signifying everything that the gods could mean for men and women. He struck a bargain: in return for El's (or Yahweh's as J calls him) special protection to look after in Haran, Jacob would make him his _elohim_.
+*Jacob* While going to Haran, Turkey to find a wife, he slept at Luz in Jordan valley, saw El in his dreams who blessed him and repeated the promises that he had made to Abraham: Jacob's descendants would becaome a mighty nation and possess the land of Canaan. When he wakes, J makes him say; truly Yahweh is in this place, and I never knew it. This is nothing less than house of God _(bethEl)_; this is the gate of heaven. This saying is instictively pagan. Babylon itself, the abode of gods was called 'Gate of the gods' _(Bab-ili)_. Befoere he left Beth-El, Jacob had decided to make the god he had encountered there his _elohim_: this was a technical term, signifying everything that the gods could mean for men and women. He struck a bargain: in return for El's (or Yahweh's as J calls him) special protection to look after in Haran, Jacob would make him his _elohim_.
 
 *_People would continue to adopt a particular conception of the divine because it worked for them, not because it was scientifically or philosophically sound._*
 
@@ -108,7 +116,7 @@ While returning from Haran with his wives, Jacob met a stranger with whom he wre
 
 *Moses* The events of Exodus (of Israelites from Egypt's Pharaoh rule) made Yahweh the definitive God of Israel and that Moses was able to convince the Israelities that he really was the one and the same as El, the God beloved by Abraham, Isaac and Jacob.
 
-*Joshua* In the story of Mount Sinai, where God (Yahweh) is purported to have appeared to Moses and given him the Ten Commandments. A ceremony was conducted by Moses's successor Joshua who represented Yahweh. Jushua said:
+*Joshua* In the story of Mount Sinai, where God (Yahweh) is purported to have appeared to Moses and given him the Ten Commandments. A ceremony was conducted by Moses's successor Joshua who represented Yahweh. Joshua said:
 
 [quote]
 ____
@@ -116,7 +124,7 @@ So now, fear Yahweh and serve him perfectly and sincerely; put away the gods tha
 ____
 
 
-*Eli-Jah* After Joshua, many people continued to follow pagan culture and rituals they had been in ancient times. King Solomon was himself great syncretist. He had many pagan wives who worshipped their own gods. 
+*Eli-Jah* After Joshua, many people continued to follow pagan culture and rituals they had been in ancient times. King Solomon (970 to 931 BCE, son of King David) was himself great syncretist. He had many pagan wives who worshipped their own gods. 
 
 [NOTE]
 ====
@@ -131,28 +139,33 @@ Proselytism (/ˈprɒsəlɪtɪzəm/) is the act or fact of religious conversion, 
 The English-language word proselytize derives from the Greek language prefix (pros-, "toward") and the verb(érchomai, "I come") in the form of (prosélytos, "newcomer")
 ====
 
-When a severe drought struck in the ends of King Ahab's reign, a prophet named Eli-Jah summoned King Ahab and people to a contest on Mount Carmel between Yahweh and Baal. Baal priests couldn't perform the miracle and he could and was declared as winner. He got Baal priests slaughtered. Upon Elijah's prayer Yahweh God made it rain and proved himself to be just as effective in fertility as he was in war(Exodus). 
+When a severe drought struck in the ends of King Ahab's (seventh king of Israel) reign, a prophet named Eli-Jah summoned King Ahab and people to a contest on Mount Carmel between Yahweh and Baal. Baal priests couldn't perform the miracle and he could and was declared as winner. He got Baal priests slaughtered. Upon Elijah's prayer Yahweh God made it rain and proved himself to be just as effective in fertility as he was in war(Exodus). 
 
 *The period 800-200 BCE has been termed as Axial Age.* In all main regions of the civilized world, people created new ideologies that have continued to be crucial and formative. The new religious system reflected the changed economic and social conditions. Power was shifted from king and priest, temple and palace, to the market class with the rise of a merchant class. Inequality and exploitation became more apparent and people bagan to realize that their own behavior could affect the fate of future generations. Each region developed a distinctive ideology to address these problems and concerns: Taoism and Confucianism in China, Hinduism and Buddhism in India and philosophical rationalism in Europe. The Middle East did not produce a uniform solution but in Iran and Israel, Zoroaster and Hebrew prophets evolved different versions of monotheism. 
 
 == One God
 
 [#img-israel]
-image::Kingdoms_of_Israel_and_Judah_map_830.svg[Map of Israel and Judah in the 9th century BCE,720,859]
+image::https://upload.wikimedia.org/wikipedia/commons/b/bd/Kingdoms_of_Israel_and_Judah_map_830.svg[title="Map of Israel and Judah in the 9th century BCE,720,859"]
 
 According to the Hebrew Bible, the Kingdom of Israel, was one of two successor states to the former United Kingdom of Israel and Judah. Historians often refer to the Kingdom of Israel as the *"Northern Kingdom"* or as the *"Kingdom of Samaria"* to differentiate it from the Southern *Kingdom of Judah*.
 
-*In 742 BCE*, A member of the Judaean royal family *Isaiah* had a vision in the Temple which King Solomon had built in Jerusalem. It was anxious time for people of Israel. King Uzziah of Judah had died that year and was succeeded by King Ahaz, who was a syncretist and would encourage his subjects to worship pagan godds alongside Yahweh. The Northern kingdom of Israel was in a state of near anarchy: after the death of King Jeroboam II, five kings had sat on the throne between 746 to 736, while King Tigleth Pilesar III, King of Assyria, looked hungrily at their land. 
+*In 742 BCE*, A member of the Judaean royal family *Isaiah* had a vision in the Temple which King Solomon had built in Jerusalem. It was anxious time for people of Israel. King Uzziah of Judah had died that year and was succeeded by King Ahaz, who was a syncretist and would encourage his subjects to worship pagan gods alongside Yahweh. The Northern kingdom of Israel was in a state of near anarchy: after the death of King Jeroboam II, five kings had sat on the throne between 746 to 736, while King Tigleth Pilesar III, King of Assyria, looked hungrily at their land. 
 
-*Isaiah* was probably full of foreboding, at the same time he may have been uncomfortably aware of the inappropriateness of the lavish Temple ceremonials. Despite being from ruler class, Isaiah had populist and democratic views and was highly sensitive to the plight of the poor. He may have feared that religion of Israel had lost its integrity and inner meaning.
-In his vision, Isaiah saw Yahweh himself sitting on his throne in heaven directly abobe the Temple, which was replica of his celestial court on earth. He was attended by two seraphs, who were cried out to one another antiphonally: Holy! holy! holy is Yahweh Sabaoth.
+image::https://upload.wikimedia.org/wikipedia/commons/c/c1/Map_of_Assyria.png[title="Map of Assyria"]
 
+*Isaiah* was probably full of foreboding after King Uzziah's death, at the same time he may have been uncomfortably aware of the inappropriateness of the lavish Temple ceremonials. Despite being from ruler class, Isaiah had populist and democratic views and was highly sensitive to the plight of the poor. He may have feared that religion of Israel had lost its integrity and inner meaning.
+In his vision, Isaiah saw Yahweh himself sitting on his throne in heaven directly abobe the Temple, which was replica of his celestial court on earth. He was attended by two seraphs, who were cried out to one another antiphonally: Holy! holy! holy is Yahweh Sabaoth. His glory fill the whole earth.
+
+[NOTE]
+====
+[#antiphonal]
 [small]#antiphonal /anˈtɪfən(ə)l/ 
 (of music, especially church music, or a section of a church liturgy) sung, recited, or played alternately by two groups.#
 
 [small]#Sabaoth /ˈsabeɪɒθ,saˈbeɪɒθ/ 
 the hosts of heaven (in the biblical title ‘Lord (God) of Sabaoth’).#
-
+====
 
 [.lead]
 When we use word 'holy' today, we ususally refer to the state of moral execellence. The Hebrew _kaddosh_, however, means otherness, a radical separation.
@@ -166,4 +179,53 @@ ____
 What a wretched state I am in! I am lost for I am a man of unclean lips and I live among a people of unclean lips, and my eyes have looked at the King, Yahweh Sabaoth.
 ____
 
-image::Map_of_Assyria.png[Map of Assyria]
+One of the seraphs flew towards him with a live coal and purified his lips, so thay could utter the word of God.
+
+_Many of the prophets were either unwilling to speak on God's behalf or unable to do so._
+
+[example]
+When God had called Moses, prototype of all prophets, from the burning bush and commanded him to be his messenger to Pharaoh and the children of Israel, Moses had protested that he was 'not able to speak well'. God had made him allowances for his impediment and permitted his brother Aaron to speak in Moses's stead.
+
+Yahweh asked to Isaiah: 'Whom shall I send?Who will be our messenger?' and, like Moses beefore him, Isaiah immediately replied: 'Here I am! (_hineni_) send me!'
+
+_The point of this vision was not to enlighten the prophet but to give him a practical job to do. Primarily the prophey is one who stands in God's presence but this experience of transcendence results not in the imparting of knowledge - as in Buddhism - but in action. The prophet will not be characterised by mystical illumination but by obedience._
+
+*Isaiah* would live to see the destruction of the northern kingdom (Kingdom of Israel) in 722 and the deportation of the ten tribes by Assyrian King. In 701 Sennacherib (king of Neo-Assyrian empire) would invade Kingdon of Judah with a vast Assyrian army. *Isaiah* had the thankless task of warning his people of these impending catastrophies.
+
+The old partisan God of Moses would have cast Assyria into the role of the enemy; the God of Isaiah saw Assyria as his intrument. It was not Sargon II or his son Sennacherib who would drive the Israelites into exile and devastate the country. It is 'Yahweh who drives the people out'.
+
+The pagan gods depended upon the ceremonies which involved sacrifices to renew their depleted energies; their prestige dependend in part of the magnificence of their temples. Now Yahweh was actually saying that these things were utterly meaningless. Like other sages and philosophers in the Oikumene (the inhabited, or the habutable world), Isaiah felt that exterior observance was not enough. Isaraelites must discover the inner meaning of their religion. Yahweh wanted compassion rather than sacrifice. 
+
+[quote, Isaiah 1:15]
+____
+You may multiply your prayers, +
+I shall not listen. +
+Your hands are covered with blood, +
+wash, make yourselves clean. +
+Take your wrong-doing out of my sight. +
+Cease to do evil. +
+Learn to do good, +
+search for justice, +
+help the opressed, +
+be just to the orphan, +
+plead for the widow. +
+____
+
+*The prophets had discovered for themselves the overriding duty for compassion, which would become hallmark of all the religions formed in the Axial Age (800 BCE - 200 BCE).*
+
+The social ideal of the prophets had been implicit in the cult of Yahweh since Sinai: the story of the Exodus had stressed that God was on the side of the weak and opressed, The difference was that now Israelites themselves were castigated as oppressors. 
+
+During the same time of *Isaiah*, there were two more preachers already preaching a similar message in the northern kingdon (Kingdom of Israel).
+
+The first was *Amos* who was no aristocrat like *Isaiah* but a shepherd who had originally lived in Tekoain the southern kingdom. He had gone to the northern kingdom on God Yahweh's command. When he was rebuked by the Amaziah, the priest of Beth-El, he tells it is God's command:
+
+[quote, Amos 3:8]
+____
+The lion roars, who can help feeling afraid? +
+The Lord Yahweh speaks: who can refuse to prophesy? +
+____
+
+*Amos* was first of the prophets to emphasize the importance of social justice and compassion.
+
+Most Israelites declined the prophet's invitation to enter into a dialogue with Yahweh. They preferred a less demanding religion of cultic observance either in the Jerusalem ZTemple or in the old fertility cults of Canaan. _This continues to be the case: the religion of compassion is only followed by a minority; most religous people are content with decorous worship in synagogue, church, temple and mosque. 
+
