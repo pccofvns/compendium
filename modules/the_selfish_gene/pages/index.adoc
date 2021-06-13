@@ -1,1 +1,43 @@
+= The Selfish Gene
+
 == Why Are People
+
+We humans, like all other animals , are machines created by our genes. The predominant quality to be expected in successful gene is ruthless selfishness, which gives rise in selfishness of individual behavior. There are [.underline]#*_special_*# circumstances in which a gene can achieve its own selfish goals best by fostering a [.underline]#*_limited_*# form of altruism at the level of individual animals.
+
+Genetically inherited traits are not fixed or unmodifiable. Our genes may instruct us to be selfish, but we are not necessarily compelled to obey them all our lives. It all depends on 'nature vs. nurture'.
+
+*Altruistic* - An entity such as baboon, is said to be altruistic if it behaves in such a way as to increase another such entity's welfare at the expense of his own. Selfish behavior has exactly the opposite effect. _'Welfare'_ is defined as _'chances of survival'_, even if the effect on actual life and death prospects is so small as to _seem_ negligible. These definitions of altruism and selfishness are _behavioural_, not subjective. This definition is concerned only with whether the _effect_ of an act is to lower or raise the survival prospects of the presumed altruist and the survival prospects of the presumed beneficiary. 
+
+It is a very complicated business to demondtrate the effects of behavior on long-term survival prospects. An apparently altruistic act is one that looks, superficially, as if it must tend to make the altruist more likely(however slightly) to die, and recipient more likely to survive. It often turns out on closer inspection that acts of apparent altruism are really selfishness in disguise, that doesn't mean the underlying motives are secretly selfish, but the real effects of the act on survival propspects are the reverse of what we originally thought. 
+
+=== Example of apparently 'altruistic' and selfish behaviours
+
+.Blackheaded gulls
+[example]
+image:https://upload.wikimedia.org/wikipedia/commons/2/29/Chroicocephalus_ridibundus_%28summer%29.jpg[title="Blackheaded Gull"] Blackheaded gulls nest in large colonies, the nests being only a few feet apart. When the chicks first hatch out they are small and defenceless and easy to swallow. It is quite common for a gull to wait until a neighbour's back is turned, perhaps while it is away fishing, and then pounce on one of the neighbour's chicks and swallow it whole. It thereby obtains a good nutritious meal, without having to go to the trouble of catching a fish, and without having to leave its own nest unprotected.
+
+.Sexual cannibalism in Mantises
+[example]
+image:https://upload.wikimedia.org/wikipedia/commons/f/f2/Praying_Mantis_Sexual_Cannibalism_European-37.jpg[Sexual cannibalism in Mantis religiosa] Mantises are large carnivorous insects. They normally eat smaller insects such as flies, but they will attack almost anything that moves. When they mate, the male cautiously creeps up on the female, mounts her, and copulates. If the female gets the chance, she will eat him, beginning by biting his head off, either as the male is approaching, or immediately after he mounts, or after they separate. It might seem most sensible for her to wait until copulation is over before she starts to eat him. But the loss of the head does not seem to throw the rest of the male's body off its sexual stride. Indeed, since the insect head is the seat of some inhibitory nerve centres, it is possible that the female improves the male's sexual performance by eating his head. If so, this is an added benefit. The primary one is that she obtains a good meal.
+
+.Emperor penguins in the Antarctic
+[example]
+image:https://upload.wikimedia.org/wikipedia/commons/1/1d/Penguin_in_Antarctica_jumping_out_of_the_water.jpg[Emperor penguin jumping out of the water in Antarctica] Emperor penguins in the Antarctic have been seen standing on the brink of the water, hesitating before diving in, because of the danger of being eaten by seals. If only one of them would dive in, the rest would know whether there was a seal there or not. Naturally nobody wants to be the guinea pig, so they wait, and sometimes even try to push each other in.
+
+.Worker Bees
+[example]
+image:https://upload.wikimedia.org/wikipedia/commons/4/4a/Todd_Huffman_-_Lattice_(by).jpg[Worker bees (with queen)] An example of 'apparently' altruistic behaviour. The stinging behaviour of worker bees is a very effective defence against honey robbers. But the bees who do the stinging are kamikaze fighters. In the act of stinging, vital internal organs are usually torn out of the body, and the bee dies soon afterwards. Her suicide mission may have saved the colony's vital food stocks, but she herself is not around to reap the benefits. By our definition this is an altruistic behavioural act.
+
+.Alarm call by  birds
+[example]
+Many small birds, when they see a flying predator such as a hawk, give a characteristic 'alarm call', upon which the whole flock takes appropriate evasive action. There is indirect evidence that the bird who gives the alarm call puts itself in special danger, because it attracts the predator's attention particularly to itself. This is only a slight additional risk, but it nevertheless seems, at least at first sight, to qualify as an altruistic act by our definition.
+
+The commonest and most conspicuous act of animal altruism are done by parents, especially mothers, towards their children.
+
+.Distraction display by some ground-nesting birds
+[example]
+Many ground-nesting birds perform a so-called 'distraction display' when a predator such as a fox approaches. The parent bird limps away from the nest, holding out one wing as though it were broken. The predator, sensing easy prey, is lured away from the nest containing the chicks. Finally the parent bird gives up its pretence and leaps into the air just in time to escape the fox's jaws. It has probably saved the life of its nestlings, but at some risk to itself.
+
+A group, such as species, or a population within the species, whose individual members are prepared to sacrifice (e.g. bees) themselves for the welfare of the group, may be less likely to go extinct than a rival group whose individual members place their own interest first. Therefore, the world becomes mainly populated by the groups consisting of self-sacrificing individuals. This is the theory of [.underline]#'group selection'#, long assumed to be true by biologists not familiar with the details of evolutionary theory, brought out in open by V. C. Wynne-Edwards, and popularized by Robert Ardrey in _The Social Contract_. As an answer to this theory, someone may argue that even in the group of altruists, there will almost certainly be a dissenting minority who refuse to make sacrifice. If there is just one selfish rebel, prepared to exploit the altruism of the rst, then he, by definition, is more likely to surive and have children. In several generations, upon inheriting such selfish traits, such group will be overrun by selfish individuals.
+
+Often altruism within a group goes with selfishness between groups. This is a basis of trade unionism. At another level the nation is major beneficiary of our altruistic self sacrifice. Moreover they are encouraged to kill other individuals about whom nothing is known except that they belong to different nation. (Curiously, peace-time appeals for individuals to make some small sacrifice in the rate at which they increase their standard of living seem to be less effective than war-time appeals for individuals to lay down their lives.)
