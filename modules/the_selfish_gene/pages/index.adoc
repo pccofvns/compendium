@@ -14,19 +14,32 @@ It is a very complicated business to demondtrate the effects of behavior on long
 
 .Blackheaded gulls
 [example]
-image:https://upload.wikimedia.org/wikipedia/commons/2/29/Chroicocephalus_ridibundus_%28summer%29.jpg[title="Blackheaded Gull"] Blackheaded gulls nest in large colonies, the nests being only a few feet apart. When the chicks first hatch out they are small and defenceless and easy to swallow. It is quite common for a gull to wait until a neighbour's back is turned, perhaps while it is away fishing, and then pounce on one of the neighbour's chicks and swallow it whole. It thereby obtains a good nutritious meal, without having to go to the trouble of catching a fish, and without having to leave its own nest unprotected.
+====
+image::https://upload.wikimedia.org/wikipedia/commons/2/29/Chroicocephalus_ridibundus_%28summer%29.jpg[title="Blackheaded Gull"]
+
+Blackheaded gulls nest in large colonies, the nests being only a few feet apart. When the chicks first hatch out they are small and defenceless and easy to swallow. It is quite common for a gull to wait until a neighbour's back is turned, perhaps while it is away fishing, and then pounce on one of the neighbour's chicks and swallow it whole. It thereby obtains a good nutritious meal, without having to go to the trouble of catching a fish, and without having to leave its own nest unprotected.
+====
 
 .Sexual cannibalism in Mantises
 [example]
-image:https://upload.wikimedia.org/wikipedia/commons/f/f2/Praying_Mantis_Sexual_Cannibalism_European-37.jpg[title="Sexual cannibalism in Mantis religiosa"] Mantises are large carnivorous insects. They normally eat smaller insects such as flies, but they will attack almost anything that moves. When they mate, the male cautiously creeps up on the female, mounts her, and copulates. If the female gets the chance, she will eat him, beginning by biting his head off, either as the male is approaching, or immediately after he mounts, or after they separate. It might seem most sensible for her to wait until copulation is over before she starts to eat him. But the loss of the head does not seem to throw the rest of the male's body off its sexual stride. Indeed, since the insect head is the seat of some inhibitory nerve centres, it is possible that the female improves the male's sexual performance by eating his head. If so, this is an added benefit. The primary one is that she obtains a good meal.
+====
+image::https://upload.wikimedia.org/wikipedia/commons/f/f2/Praying_Mantis_Sexual_Cannibalism_European-37.jpg[title="Sexual cannibalism in Mantis religiosa"]
+Mantises are large carnivorous insects. They normally eat smaller insects such as flies, but they will attack almost anything that moves. When they mate, the male cautiously creeps up on the female, mounts her, and copulates. If the female gets the chance, she will eat him, beginning by biting his head off, either as the male is approaching, or immediately after he mounts, or after they separate. It might seem most sensible for her to wait until copulation is over before she starts to eat him. But the loss of the head does not seem to throw the rest of the male's body off its sexual stride. Indeed, since the insect head is the seat of some inhibitory nerve centres, it is possible that the female improves the male's sexual performance by eating his head. If so, this is an added benefit. The primary one is that she obtains a good meal.
+====
 
 .Emperor penguins in the Antarctic
 [example]
-image:https://upload.wikimedia.org/wikipedia/commons/1/1d/Penguin_in_Antarctica_jumping_out_of_the_water.jpg[title="Emperor penguin jumping out of the water in Antarctica"] Emperor penguins in the Antarctic have been seen standing on the brink of the water, hesitating before diving in, because of the danger of being eaten by seals. If only one of them would dive in, the rest would know whether there was a seal there or not. Naturally nobody wants to be the guinea pig, so they wait, and sometimes even try to push each other in.
+====
+image::https://upload.wikimedia.org/wikipedia/commons/1/1d/Penguin_in_Antarctica_jumping_out_of_the_water.jpg[title="Emperor penguin jumping out of the water in Antarctica"]
+Emperor penguins in the Antarctic have been seen standing on the brink of the water, hesitating before diving in, because of the danger of being eaten by seals. If only one of them would dive in, the rest would know whether there was a seal there or not. Naturally nobody wants to be the guinea pig, so they wait, and sometimes even try to push each other in.
+====
 
 .Worker Bees
 [example]
-image:https://upload.wikimedia.org/wikipedia/commons/4/4a/Todd_Huffman_-_Lattice_(by).jpg[title="Worker bees (with queen)"] An example of 'apparently' altruistic behaviour. The stinging behaviour of worker bees is a very effective defence against honey robbers. But the bees who do the stinging are kamikaze fighters. In the act of stinging, vital internal organs are usually torn out of the body, and the bee dies soon afterwards. Her suicide mission may have saved the colony's vital food stocks, but she herself is not around to reap the benefits. By our definition this is an altruistic behavioural act.
+====
+image::https://upload.wikimedia.org/wikipedia/commons/4/4a/Todd_Huffman_-_Lattice_(by).jpg[title="Worker bees with queen"] 
+An example of 'apparently' altruistic behaviour. The stinging behaviour of worker bees is a very effective defence against honey robbers. But the bees who do the stinging are kamikaze fighters. In the act of stinging, vital internal organs are usually torn out of the body, and the bee dies soon afterwards. Her suicide mission may have saved the colony's vital food stocks, but she herself is not around to reap the benefits. By our definition this is an altruistic behavioural act.
+====
 
 .Alarm call by  birds
 [example]
