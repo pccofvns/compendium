@@ -346,7 +346,7 @@ Second Isaiah wastes no time denouncing the gods of the _goyim_. He calmly assum
 
 Yahweh had finally absorbed his rivals in the religious imagination of Israel; in exile, the lure of paganismlost its attraction and the religion of Judaism was born. At a time when the cult of Yahweh might reasonably have been expected to perish, he became the means that enabled people to find hope in impossible circumstances.
 
-_When Cyrus, King of Persia, conquered the Babylonian empire in 539 BCE, it seemed as though the prophets had been vindicated. Cyrus didn't impose the Persian gods on his new subjects but worshipped at the Temple of Marduk when he entered Babylon in triumph. In 538 BCE, Cyrus issued an edict permitting the Jews to return to Judah and rebuild their own temple. Most of them, however, elected to stay behind: henceforth only a minority would live in the Promised Land._
+_When Cyrus, King of Persia, conquered the Babylonian empire in 539 BCE, it seemed as though the prophets had been vindicated. Cyrus didn't impose the Persian gods on his new subjects but worshipped at the Temple of Marduk when he entered Babylon in triumph. In 538 BCE, Cyrus issued an edict permitting the Jews to return to Judah and rebuild their own temple. He did not, however, allow the restoration of the Judean monarchy, which left the Judean priests as the dominant authority. Most of them, however, elected to stay behind: henceforth only a minority would live in the Promised Land._
 
 The Bible tells us that 42,360 Jews left Babylon and Tel Aviv and began the trek home, where they imposed their new Judaism on their bewildered brethren who had remained behind.
 
@@ -396,6 +396,13 @@ image::https://upload.wikimedia.org/wikipedia/commons/2/22/Jerusalem-2013%282%29
 
 It is said that after the conquest of Jerusalem, Rabbi Yohannan had been smuggled out of burning city in coffin. He had been opposed to the Jewish revolt and thought that the Jews would be better off without a state. The Romans allowed him to found a self-governing Pharisaic community at Jabneh, to the west of Jerusalem. Similar communities were founded in Palestine and Babylonia, which maintained close links. These communities produced scholars known as the _tannaim_, including rabbinic heroes like Rabbi Yohannan himself, Rabbi Akiva the mystic, and Rabbi Ishmael: they campiled the Mishnah, the codification of an oral law which brought the Mosaic law up to date. Next a new set of scholars, known as _amoraim_. began commentary on the Mishnah and produced the treatises known as the Talmud. *In fact two Talmuds had been compiled: The Jerusalem Talmud, which was completed by the fourth century, and the Babylonian Talmud, which is considered the more authoritative and which was not completed until the end of fifth century.* 
 
+[TIP]
+====
+When the Temple was no longer the only institution for Jewish religious life. After the building of the Second Temple in the time of Ezra the Scribe, the houses of study and worship remained important secondary institutions in Jewish life. Outside Judea, the synagogue was often called a house of prayer. While most Jews could not regularly attend the Temple service, they could meet at the synagogue for morning, afternoon and evening prayers. Although priests controlled the rituals of the Temple, the scribes and sages, later called rabbis (Heb.: "Teacher/master"), dominated the study of the Torah. These men maintained an oral tradition that they believed had originated at Mount Sinai alongside the Torah of Moses; a God-given interpretation of the Torah.
+
+The Pharisee ("separatist") party emerged largely out of the group of scribes and sages. Their name comes from the Hebrew and Aramaic parush or parushi, which means "one who is separated." It may refer to their separation from Gentiles, sources of ritual impurity or from irreligious Jews.
+====
+
 Yahweh had always been transcendent deity, who directed human beings from above and without. The Rabbis made him intimately present within the mankind and the smallest of the details of life. After the loss of the Temple and the harrowing experience of yet another exile, the Jews needed a God in their midst. The Rabbis did not construct any formal doctrines about God. Instead, they experienced him as an almost tangible presence.
 
 The Rabbis frequently suggest that, on Mount Sinai, each one of the Israelites who had been standing at the foot of the mountain had experienced God in a different way. God had, as it were, adapted himself to each person _according to the comprehension of each_. As one Rabbi put it, _God does not come to man oppresively but commensurately with a man's power of receiving him._ God was essentially subjective experience. Each individual would or prophets had experienced God differently, the Rabbis insisted, because his personality has influenced his conception of the divine. 
@@ -413,3 +420,4 @@ Jews were not to think of God as a Big Brother, watching their every move from a
 The God of Israel had sometimes seemed to encourage a most unholy and inhumane cruelty. But over the centuries Yahweh had become an idea that could help people to cultivate a compassion and respect for their fellow human beings, which had always been a hallmark of the religions of the Axial Age. Teh ideals of the Rabbis were close to the second of the God-religions, which has its roots in exactly the same tradition.
 
 == A Light to the Gentiles
+
