@@ -2,10 +2,10 @@ site:
   title: Compendium
   # the 404 page and sitemap files only get generated when the url property is set
   url: http://localhost:5000/compendium
-  start_page: notes::index.adoc
+  start_page: compendium::index.adoc
 content:
   sources:
-  - url: https://github.com/pccofvns/notes.git
+  - url: https://github.com/pccofvns/compendium.git
     branches: master
 ui:
   bundle:
@@ -21,7 +21,6 @@ ui:
     - path: .nojekyll
 asciidoc:
   extensions:
-    - asciidoctor-plantuml
     - ./lib/json-config-ui-block-macro.js
     - ./lib/inline-man-macro.js
     - ./lib/multirow-table-head-tree-processor.js
