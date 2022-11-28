@@ -1,0 +1,22 @@
+= Thinking, fast and slow.
+
+== Introduction 
+
+Aim: To enrich the vocabulary that people use when they talk about judgements and choices of others, company policies, investment decisions.
+
+To be a good diagnostic station, a physician needs to acquire a large set of labels for diseases, each of which binds an idea of the illness and its symptoms, possible antecedents and causes, possible development and consequences, and possible intervention to cure and mitigate the illness.
+
+
+_denigrate_ 
+1. To attack the reputation of, defame
+2. to deny importance or validity of, belittle 
+from Latin _denigratus_ -> past participle of _denigrare_, (_de_ + _nigrare_) to blacken from _nigr-_/ _niger_ meaning black 
+
+Decision Research Amos Tversky 1969.
+
+
+People maybe intuitive grammarian but they're not intuitive statistician. Article published in _Science_, Judgement Under Uncertainty: Heuristics and Biases.
+
+
+Errors in the thinking of normal people can be traced to the design of machinery of cognition rather than the corruption of thought by emotion. People tend to assess the relative importance of issues by the ease with which they are retrieved from memory. Media also tend to publish those news that are on public mind. That is one of the reason, authoritarian regimes tries to stifle the independent media.
+

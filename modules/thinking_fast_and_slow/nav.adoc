@@ -1,0 +1,1 @@
+* xref:index.adoc[Thinking, fast and slow by _Daniel Kahneman_]
