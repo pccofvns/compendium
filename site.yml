@@ -5,7 +5,7 @@ site:
   start_page: compendium::index.adoc
 content:
   sources:
-  - url: https://github.com/pccofvns/compendium.git
+  - url: . ## https://github.com/pccofvns/compendium.git
     branches: master
 ui:
   bundle:
@@ -43,7 +43,6 @@ asciidoc:
     xrefstyle: short
     plantuml-server-url: 'http://www.plantuml.com/plantuml'
     plantuml-fetch-diagram: true
-    antora: true
 runtime:
   cache_dir: ./.cache/antora
   fetch: true

@@ -1,3 +1,5 @@
+:stem: latexmath
+
 = Thinking, fast and slow.
 
 == Introduction 
@@ -12,11 +14,125 @@ _denigrate_
 2. to deny importance or validity of, belittle 
 from Latin _denigratus_ -> past participle of _denigrare_, (_de_ + _nigrare_) to blacken from _nigr-_/ _niger_ meaning black 
 
-Decision Research Amos Tversky 1969.
+Decision Research, Amos Tversky, 1969.
 
 
 People maybe intuitive grammarian but they're not intuitive statistician. Article published in _Science_, Judgement Under Uncertainty: Heuristics and Biases.
 
 
 Errors in the thinking of normal people can be traced to the design of machinery of cognition rather than the corruption of thought by emotion. People tend to assess the relative importance of issues by the ease with which they are retrieved from memory. Media also tend to publish those news that are on public mind. That is one of the reason, authoritarian regimes tries to stifle the independent media.
+
+Prospect theory: Analysis of decision under risk. This is one of the foundation of behavioural economics.
+
+Skill and heuristics are alternative sources of intuitive judgement and choices.
+
+Essence of intuitive heuristics:  When faced with a difficult question, we often answer an easier one instead usually without noticing the substitution.
+*Difficult:* _Should I invest in Ford stock?_
+*Easy:*  _Do I like Ford cars?_
+
+We are prone to overestimate how much we understand about the world and to underestimate the role of chance in events.
+
+== Part - I: Two Systems
+
+=== Characters of the Story
+
+System 1: Operates automatically and quickly with little or no effort and no sense of voluntary control.
+System 2:  Allocates attention to the effortful mental activities that demand it including complex calculations.
+
+.The Invisible Gorilla
+[example]
+====
+Imagine you are asked to watch a short video (above) in which six people-three in white shirts and three in black shirts-pass basketballs around. While you watch, you must keep a silent count of the number of passes made by the people in white shirts. At some point, a gorilla strolls into the middle of the action, faces the camera and thumps its chest, and then leaves, spending nine seconds on screen. Would you see the gorilla?
+====
+
+.System 1 vs System 2
+|===
+|SYSTEM 1 |SYSTEM 2
+|impulse, impression, intuition, autonomous
+|self control, voluntary actions, the (I), conscious being, effortful
+|===
+
+.Müller-Lyer illusion
+[example]
+====
+image::https://upload.wikimedia.org/wikipedia/commons/0/06/M%C3%BCller-Lyer_Illusion_-_MathWorld_version.svg[title="Müller-Lyer illusion"]
+
+Two sets of arrows that exhibit the Müller-Lyer optical illusion. The set on the bottom shows that all the shafts of the arrows are of the same length.
+====
+
+=== Attention and Effort
+
+Changing size of peoples are faithful record of mental effort of system 2.
+
+[quote,Eckhard Hess,Scientific American]
+Pupil of the eyes are window to the soul.
+
+Dark glasses while shopping hides the level of intereset from shopkeepers, by hiding the pupils.
+
+Much like the electricity meter, pupils offer an index of the current rate at which mental energy is used. 
+
+Wattage of appliances though predefined, can be said to be similar to the difficulty of task. However, the difficuly of task can vary.
+When more current is drawn, then circuit breaker kicks in. However, in case of difficult tasks, more capacity is allocated as per the task from spare capacity.
+
+As you become skilled in the task, its demand for energy diminishes with fewer brain regions involved.
+
+Switching from one task to another is effortfull, specially in time constraint, it can be thought of as some kind of inertia.
+
+=== The Lazy Controller
+
+It is normally easy to and quite pleasant to walk and think at the same time, but at extremes these activities appear to compete for the limited resources of system 2.
+Example: Multiply 23×78 while walking.
+
+[quote]
+Self control, and deliberate thought apparently draws on the same limited budget of effort.
+
+Both self control and cognitive effort or forms of mental work.
+
+In a state of "flow", maintaining focused attention on absorbing activities like playing chess, riding motorcycle at 150 mph requires no exertion of self control their by freeing resources to the task at hand.
+
+People tend to yield to temptation when they are simultaneously challenged by a demanding cognitive task and by a temptation.
+
+Exanple: Remember 7 digits versus choose between desserts.
+
+People who are cognitively busy or also more likely to make selfish choices, use sexist language, and make superficial judgements in social situations.
+
+TODO:
+Cognitive load is inversely proportional to self control.
+
+Self control requires attention and effort.
+
+Few drinks, sleepless night, morning people at night and vice versa, too much concern about how well one is doing in a task, leading to anxious thoughts, can cause weakened self control.
+
+Controlling thoughts and behaviours is one of the task of system 2.
+
+All variants of voluntary effort- cognitive, emotional, or physical, draw at least partly on as shared pool of mental energy.
+
+An effort of will or self control is tiring; if you have had to force yourself to do something, you are less willing or less able to exert self-control when the next challenge comes around. This phenomenon has been named _ego depletion_.
+
+People who weren't allowed to show emotional reaction to emotionally charged film, perform poorly on physical stamina requiring task.
+
+Activities that demand more of system 2 require self control, and exertion of self control is depleting and unpleasant. Unlike cognitive load, ego depletion is at least in part loss of motivation.
+
+Ego depletion is not the same mental state as cognitive business.
+
+Mental energy is more than a metaphor. Body consumes more glucose similar to someone running, when doing some cognitively challenging task.
+
+Ego depletion can be seen to be undone by ingesting glucose. Fatigue and hunger play a role in ego depletion.
+
+Example: Approval rates of parole was linked to when judges were having their meal.
+
+[quote, Keith Stanovich, Rationality and the Reflective Mind]
+Rationality should be distinguished from intelligence.
+
+Those who avoid the sin of intellectual sloth could be called "engaged". They are more alert, more intellectually active, less willing to be satisfied with superficially attractive answers (right now 1 Oreo, but after 15 minutes of wait 2 cookies), more skeptical about their intuitions. The psychologist Keith Stanovich would call them more _rational_.
+
+_Intellignece_ is ability to reason, and also ability to find relevant materials in memory and to deploy attention when needed. For example, using statistical figures in relevant context.
+
+Example: The crime rate of Michigan may be more because Detroit city has more crimes and Detroit is in Michigan.
+
+
+
+
+
+
 
